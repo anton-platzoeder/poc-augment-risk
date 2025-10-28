@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 3005;
 const DB_PATH = path.join(__dirname, 'data', 'db.json');
 
 // Middleware
