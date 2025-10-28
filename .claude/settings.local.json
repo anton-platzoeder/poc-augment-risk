@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Read(//c/github/anton-platzoeder/poc-augment-risk/**)"
+      "Read(//c/github/anton-platzoeder/poc-augment-risk/**)",
+      "Bash(npm run dev:*)"
     ],
     "deny": [],
     "ask": []
