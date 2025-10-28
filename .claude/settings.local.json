@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/github/anton-platzoeder/poc-augment-risk/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
