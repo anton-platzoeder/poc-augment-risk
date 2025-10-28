@@ -2,7 +2,11 @@
   "permissions": {
     "allow": [
       "Read(//c/github/anton-platzoeder/poc-augment-risk/**)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(git checkout:*)",
+      "Bash(npm install)",
+      "Bash(curl:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
